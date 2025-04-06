@@ -74,7 +74,7 @@ export default function Home() {
     baseDistance += windAdjustment;
 
     // Upewnijmy się, że dystans ma minimum 355m
-    let distanceBeforeSurface = Math.max(355, baseDistance);
+    const distanceBeforeSurface = Math.max(355, baseDistance);
 
     // NOWA KOREKTA - Nawierzchnia (+10% dla trawy)
     let finalDistance = distanceBeforeSurface;
