@@ -1,5 +1,4 @@
 import { useState, useEffect } from 'react'; // Dodano useEffect
-import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 // Usunięto import Input
 import { Label } from "@/components/ui/label";
