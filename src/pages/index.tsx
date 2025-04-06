@@ -98,7 +98,7 @@ export default function Home() {
               Kalkulator Drogi Startowej dla Tecnam P2010 215KM (v4)
             </CardTitle>
              <p className="text-sm text-muted-foreground pt-1">
-               Model skalowany orientacyjnie wg. danych: 960kg -> 355m (0°C, 0ft, 0kts, asfalt). Uwzględnia nawierzchnię.
+               Model skalowany orientacyjnie wg. danych: 960kg / 355m (0°C, 0ft, 0kts, asfalt). Uwzględnia nawierzchnię.
              </p>
             <p className="text-sm text-destructive pt-2">
               Uwaga: Wyniki są jedynie szacunkowe i nie mogą zastąpić oficjalnych tabel osiągów samolotu! Wzory są bardzo uproszczone.
